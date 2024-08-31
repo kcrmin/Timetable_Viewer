@@ -1,5 +1,6 @@
 # Timetable Viewer
 Timetable Viewer is a Python application designed to help manage schedules efficiently. It provides a user-friendly interface for importing, sorting, filtering, and exporting schedule data stored in CSV files.
+https://github.com/user-attachments/assets/e7273cf9-a19c-4228-90d4-e7f0ac618531
 
 ## Features
 - Import schedules from CSV files
